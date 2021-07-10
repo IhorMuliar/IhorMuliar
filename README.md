@@ -5,7 +5,7 @@
 
 - 📫 Reach me at : **ihor.muliar22@gmail.com** or send a message on LinkedIn.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p> -->
 
 
 
@@ -15,6 +15,5 @@
 
 <p align="left">
 <h3 align="left">Connect with me:-</h3>
-<a href="https://www.linkedin.com/in/ihor-muliar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ihor-muliar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ihor-muliar/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/ihor-muliar/" height="30" width="40" /></a>
 </p>
-
