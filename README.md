@@ -5,7 +5,7 @@
 
 - 📫 Reach me at: **ihor.muliar22@gmail.com** or send a message on LinkedIn.
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali001&show_icons=true&theme=radical" alt="anjali001" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IhorMuliar&show_icons=true&theme=radical" alt="IhorMuliar" /></p>
 
 
 
