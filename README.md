@@ -15,6 +15,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:-</h3>
-<a href="www.linkedin.com/in/ihor-muliar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://www.linkedin.com/in/anjali-pal-24246214a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ihor-muliar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ihor-muliar/" height="30" width="40" /></a>
 </p>
 
