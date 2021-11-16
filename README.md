@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihor</h1>
-<h3 align="center">I'm a junior data scientist who wishes to solve problems in the world by means of data</h3>
-
-- 💬 Visit my website: [https://ihormuliar.tk/](https://ihormuliar.tk/)
+<h3 align="center">I'm a junior iOS developer who wishes to solve problems in the world</h3>
 
 - 📫 Reach me at: **ihor.muliar22@gmail.com** or send a message on LinkedIn.
 
