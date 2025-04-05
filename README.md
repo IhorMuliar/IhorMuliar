@@ -9,9 +9,9 @@ FullStack Developer | Frontend Developer | Backend developer | iOS Developer
 
 Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-DE0679?style=for-the-badge&logo=angular&logoColor=%23F7DF1E)
-![React.js](https://img.shields.io/badge/react-00D9FF.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue.js-41B782?style=for-the-badge&logo=vuejs&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-DE0679?style=for-the-badge&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/react-00D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-41B782?style=for-the-badge&logo=vuejs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-FF7B63?style=for-the-badge&logo=html5&logoColor=white)
 
