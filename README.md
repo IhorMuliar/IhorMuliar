@@ -2,4 +2,6 @@
 
 📫 Reach me at: **ihor.muliar.work@gmail.com** or send a message on LinkedIn.
 
-[![Ihor Muliar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhorMuliar)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=IhorMuliar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=IhorMuliar&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
