@@ -1,4 +1,4 @@
-#Hi there👋, I'm Ihor
+# Hi there👋, I'm Ihor
 
 📫 Reach me at: **ihor.muliar.work@gmail.com** or send a message on LinkedIn.
 
