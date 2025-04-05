@@ -11,7 +11,7 @@ Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23F7DF1E)
 ![React.js](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue-%23323330.svg?style=for-the-badge&logo=vuejs&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vue.js-41B782?style=for-the-badge&logo=vuejs&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
 
