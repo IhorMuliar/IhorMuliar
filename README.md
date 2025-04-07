@@ -1,9 +1,12 @@
-# Hi there👋, I'm Ihor
+# Hi there 👋, I'm Ihor
 
 📫 Reach me at: **ihor.muliar.work@gmail.com** or send a message on LinkedIn.
 
 ## 💫 About me
 FullStack Developer | Frontend Developer | Backend developer | iOS Developer
+
+### 🧑‍💻 Currently working on:
+![Blockrunners](https://github.com/jannden/blockrunners)
 
 ### 💻 Tech Stack:
 
@@ -23,6 +26,3 @@ Backend:
 ![](https://github-readme-stats.vercel.app/api?username=IhorMuliar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=IhorMuliar&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
-### Currently working on:
-![Blockrunners](https://github.com/jannden/blockrunners)
