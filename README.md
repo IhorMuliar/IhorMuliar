@@ -12,8 +12,6 @@ Frontend:
 ![Angular](https://img.shields.io/badge/angular-DE0679?style=for-the-badge&logo=angular&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-00D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-41B782?style=for-the-badge&logo=vuejs&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/html-FF7B63?style=for-the-badge&logo=html5&logoColor=white)
 
 Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,3 +23,6 @@ Backend:
 ![](https://github-readme-stats.vercel.app/api?username=IhorMuliar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=IhorMuliar&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+### Currently working on:
+![Blockrunners]https://github.com/jannden/blockrunners
