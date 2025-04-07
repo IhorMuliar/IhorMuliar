@@ -25,4 +25,4 @@ Backend:
 ![](https://github-contributor-stats.vercel.app/api?username=IhorMuliar&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ### Currently working on:
-![Blockrunners]https://github.com/jannden/blockrunners
+![Blockrunners](https://github.com/jannden/blockrunners)
