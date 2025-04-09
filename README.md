@@ -2,13 +2,13 @@
 
 📫 Reach me at: **ihor.muliar.work@gmail.com** or send a message on LinkedIn.
 
-## 💫 About me
+## About me
 FullStack Developer | Frontend Developer | Backend developer | iOS Developer
 
-### 🧑‍💻 Currently working on:
+### Currently working on:
 ![Blockrunners](https://github.com/jannden/blockrunners)
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,7 +23,7 @@ Backend:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🌟 Stats
+## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=IhorMuliar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
