@@ -6,7 +6,7 @@
 FullStack Developer | Frontend Developer | Backend developer | iOS Developer
 
 ### Currently working on:
-![Hakata Perps](https://github.com/hakata-finance/hakata-perps)
+![Turbin3 Builders Cohort](https://github.com/solana-turbin3/Q3_25_Builder_Ihor_Muliar)
 
 ### Tech Stack:
 
