@@ -2,7 +2,6 @@
 
 📫 Reach me at: **ihor.muliar.work@gmail.com** or send a message on LinkedIn.
 
-## About me
 FullStack Developer | Frontend Developer | Backend developer | iOS Developer
 
 ### Currently working on:
