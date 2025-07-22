@@ -6,7 +6,7 @@
 ```typescript
 const expertise = {
   blockchain: ["Solana"],
-  infrastructure: ["Kubernetes", "AWS"],
+  infrastructure: ["k8s", "AWS"],
   languages: ["TypeScript", "Rust", "Python"],
 };
 ```
@@ -22,8 +22,8 @@ const expertise = {
 - Grew community 0→920+ members in 90 days
 
 ### Contact
-Based in Ukraine 🇺🇦• Open to technical discussions  
+Based in Ukraine 🇺🇦 • Open to technical discussions  
 **Email:** ihor.muliar.work@gmail.com  
 
 ---
-*"Build products that solve real problems, not just showcase technology"*
+*systems > services. performance > features. deliver > discuss.*
