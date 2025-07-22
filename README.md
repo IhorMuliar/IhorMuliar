@@ -14,12 +14,12 @@ const expertise = {
 ### Current Focus
 ![Turbin3 Builders Cohort](https://github.com/solana-turbin3/Q3_25_Builder_Ihor_Muliar)
 
-### Recent Achievements
-- MetaDAO ICO 2.0: 2nd place, $2K USDC (123 global submissions)
-- Light Protocol ZK Compression: 3rd place (150 global submissions)  
-- Colosseum Breakout: Interview selection (top 200/1,400+ submissions)
+### Recent W's
+- Metadao ico 2.0: 2nd/123 global → $2k usdc
+- Light protocol ZK compression: 3rd/150 global
+- Colosseum Breakout: top 200/1400+ → interview round
 - Built RWA perpetuals exchange MVP in 2 weeks
-- Grew community 0→920+ members in 90 days
+- 0→920 community growth in 90d
 
 ### Contact
 Based in Ukraine 🇺🇦 • Open to technical discussions  
