@@ -1,6 +1,6 @@
 # Ihor Muliar | @muliark
 
-## Technical Leadership & Blockchain Infrastructure Specialist
+## Full-stack Blockchain Developer & Protocol Engineer
 
 ### Technical Stack
 ```typescript
