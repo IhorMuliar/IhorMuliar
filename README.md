@@ -24,6 +24,7 @@ const expertise = {
 ### Contact
 Based in Ukraine 🇺🇦 • Open to technical discussions  
 **Email:** ihor.muliar.work@gmail.com
+
 **LinkedIn:** [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-muliar/)
 
 ---
