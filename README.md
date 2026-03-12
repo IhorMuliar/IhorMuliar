@@ -1,6 +1,6 @@
 # Ihor Muliar | @muliark
 
-## Full-stack Blockchain Developer
+## Software Engineer
 
 ### Technical Stack
 ```typescript
