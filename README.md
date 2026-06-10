@@ -22,7 +22,7 @@ const expertise = {
 - 0→920 community growth in 90d
 
 ### Contact
-Based in Ukraine 🇺🇦 • Open to technical discussions  
+Based in EU • Open to technical discussions  
 **Email:** ihor.muliar.work@gmail.com
 **LinkedIn:** [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-muliar/)
 
