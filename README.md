@@ -5,14 +5,14 @@
 ### Technical Stack
 ```typescript
 const expertise = {
-  blockchain: ["Solana"],
-  infrastructure: ["k8s", "AWS"],
-  languages: ["TypeScript", "Rust", "Python"],
+  blockchain: ["Solana", "Etherum", "NEAR", "Bitcoin"],
+  infrastructure: ["k8s", "AWS", "GCP", "Azure"],
+  languages: ["Rust", "Go", "Typescript", "Python"],
 };
 ```
 
 ### Current Focus
-![Turbin3 Builders Cohort](https://github.com/solana-turbin3/Q3_25_Builder_Ihor_Muliar)
+https://github.com/IhorMuliar/zenvelope
 
 ### Recent W's
 - Metadao ico 2.0: 2nd/123 global
@@ -23,7 +23,7 @@ const expertise = {
 
 ### Contact
 Based in EU • Open to technical discussions  
-**Email:** ihor.muliar.work@gmail.com
+**Email:** ihor@oakline.me
 **LinkedIn:** [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-muliar/)
 
 ---
