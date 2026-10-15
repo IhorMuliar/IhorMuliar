@@ -18,8 +18,6 @@ https://github.com/IhorMuliar/zenvelope
 - Metadao ico 2.0: 2nd/123 global
 - Light protocol ZK compression: 3rd/150 global
 - Colosseum Breakout: top 200/1400+ → interview round
-- Built RWA perpetuals exchange MVP in 2 weeks
-- 0→920 community growth in 90d
 
 ### Contact
 Based in EU • Open to technical discussions  
