@@ -1,19 +1,14 @@
-# Ihor Muliar | @muliark
+### ihor muliar
 
-## Software Engineer
+Engineer, founder. I build products end to end: trading infrastructure, platforms, apps, research.
 
-### Current Focus
-https://github.com/IhorMuliar/zenvelope
+**Now** · [zenvelope](https://github.com/IhorMuliar/zenvelope) · co-founder at Intrao Tech · researcher at KTU
 
-### Recent W's
-- Metadao ico 2.0: 2nd/123 global
-- Light protocol ZK compression: 3rd/150 global
-- Colosseum Breakout: top 200/1400+ → interview round
+**Wins**
+- 2nd / 123 · MetaDAO ICO 2.0
+- 3rd / 150 · Light Protocol ZK Compression
+- Top 200 / 1,400+ · Colosseum Breakout
 
-### Contact
-Based in EU • Open to technical discussions  
-**Email:** ihor@oakline.me
-**LinkedIn:** [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-muliar/)
+[ihor.muliar@oakline.me](mailto:ihor.muliar@oakline.me) · [LinkedIn](https://www.linkedin.com/in/ihor-muliar/) · [X](https://x.com/muliark)
 
----
-*systems > services. performance > features. deliver > discuss.*
+<sub>systems > services. performance > features. deliver > discuss.</sub>
