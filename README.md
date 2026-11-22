@@ -2,15 +2,6 @@
 
 ## Software Engineer
 
-### Technical Stack
-```typescript
-const expertise = {
-  blockchain: ["Solana", "Etherum", "NEAR", "Bitcoin"],
-  infrastructure: ["k8s", "AWS", "GCP", "Azure"],
-  languages: ["Rust", "Go", "Typescript", "Python"],
-};
-```
-
 ### Current Focus
 https://github.com/IhorMuliar/zenvelope
 
